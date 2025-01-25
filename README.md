@@ -26,4 +26,4 @@ Frontend: HTML, CSS, JavaScript
 
 Package Manager: npm
 
-![beatvibe](https://github.com/user-attachments/assets/1cba8e59-4fa0-43f2-8d24-e0c20ccd6b60)
+![Image](https://github.com/user-attachments/assets/b2fcc2ad-408f-4675-ac7c-a1df9b7eb11b)
